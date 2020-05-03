@@ -1,0 +1,5 @@
+.text__form {
+    display: flex;
+    position: relative;
+    min-height: 56px;
+}

@@ -1,0 +1,30 @@
+@import url(./__title/text__title.css);
+@import url(./__title-pink/text__title-pink.css);
+@import url(./__email-input/text__email-input.css);
+@import url(./__submit-button/text__submit-button.css);
+@import url(./__subtitle/text__subtitle.css);
+@import url(./__form/text__form.css);
+@import url(./__email-error/text__email-error.css);
+@import url(./__error-message/text__error-message.css);
+
+.text {
+  display: flex;
+  flex-direction: column;
+  max-width: 445px;
+  margin-left: 165px;
+  grid-area: text;
+  margin-bottom: 130px;
+}
+
+@media screen and (max-width: 1100px) {
+  .text {
+      width: 68%;
+      min-width: 311px;
+      margin-left: auto;
+      margin-right: auto;
+      margin-bottom: 0;
+  }
+}
+
+
+

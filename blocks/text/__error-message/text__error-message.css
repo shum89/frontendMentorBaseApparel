@@ -1,0 +1,11 @@
+@import url(./_hidden/text__error-message_hidden.css);
+
+.text__error-message {
+font-size: 13px;
+color: #F96464;
+letter-spacing: 0;
+line-height: 28px;
+margin-left: 7.2%;
+margin-top: 0;
+margin-bottom: 0;
+}

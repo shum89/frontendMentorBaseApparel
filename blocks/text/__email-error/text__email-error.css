@@ -1,0 +1,7 @@
+@import url(./_hidden/text__email-error_hidden.css);
+
+.text__email-error {
+    position: absolute;
+    right: 106px;
+    top: 16px;
+}
